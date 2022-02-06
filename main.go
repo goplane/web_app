@@ -88,4 +88,5 @@ func main() {
 	zap.L().Info("Server exiting")
 
 	fmt.Printf("结束")
+	fmt.Printf("结束开始")
 }
