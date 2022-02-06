@@ -89,4 +89,5 @@ func main() {
 
 	fmt.Printf("结束")
 	fmt.Printf("结束开始")
+	fmt.Printf("结束开始")
 }
