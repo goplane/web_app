@@ -86,4 +86,6 @@ func main() {
 
 	//log.Println("Server exiting")
 	zap.L().Info("Server exiting")
+
+	fmt.Printf("结束")
 }
