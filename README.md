@@ -1,2 +1,2 @@
 # web_app
-通用web框架
+通用goweb框架
